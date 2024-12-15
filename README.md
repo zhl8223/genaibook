@@ -16,7 +16,7 @@ Hi 🤗 This repository contains all the code and exercise answers of the book [
 The book is available on:
 
 * [Amazon](https://www.amazon.com/Hands-Generative-Transformers-Diffusion-Models/dp/1098149246)
-* [O'Reilly](https://learning.oreilly.com/library/view/hands-on-generative-ai/9781098149239/e)
+* [O'Reilly](https://learning.oreilly.com/library/view/hands-on-generative-ai/9781098149239/)
 
 ## Usage
 
